@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
+<div align="left">
   <header>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=JinYoung%20Kim&fontSize=70"/>
   </header>
@@ -30,15 +30,13 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/>
   <br><br>
-  <h3>
+  <h3>💾Used at least Once💾</h3> 
+  <br>
+  <img src="https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unity-FFFFFF.svg?&style=for-the-badge&logo=Unity&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C++&logoColor=white"/>
+  <br><br><br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=coringcoring&show_icons=true&theme=dark"/>
+  <img src="http://mazassumnida.wtf/api/generate_badge?boj=niwa32329"/>
 </div>
 
- <!--
-![Node.js](https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=green) 
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=red) 
-![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=blue) 
---> 
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=niwa32329)](https://solved.ac/niwa32329) 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coringcoring&show_icons=true&theme=dark)
