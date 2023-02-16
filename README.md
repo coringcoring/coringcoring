@@ -1,6 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=JinYoung%20Kim&fontSize=70) 
-
-
 <!--
 **coringcoring/coringcoring** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,10 +12,32 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-=
+
+<div align="center">
+  <header>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=JinYoung%20Kim&fontSize=70"/>
+  </header>
+  <h3>💻Language💻</h3>
+  <br>
+  <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/>
+  <br><br> 
+  <h3>🌱Currently Learning🌱</h3>
+  <br>
+  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/>
+  <br><br>
+  <h3>
+</div>
+
+ <!--
 ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=green) 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=red) 
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=blue) 
+--> 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=niwa32329)](https://solved.ac/niwa32329) 
 
