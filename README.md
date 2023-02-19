@@ -11,6 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<img src="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C++&logoColor=white"/>
 -->
 
 <div align="left">
@@ -36,7 +37,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Unity-FFFFFF.svg?&style=for-the-badge&logo=Unity&logoColor=black"/>
   <img src="https://img.shields.io/badge/Android Studio-3DDC84.svg?&style=for-the-badge&logo=Android Studio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C++&logoColor=white"/>
+  
   <br><br><br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=coringcoring&show_icons=true&theme=dark"/>
   <img src="http://mazassumnida.wtf/api/generate_badge?boj=niwa32329"/>
