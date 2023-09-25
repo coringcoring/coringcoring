@@ -31,14 +31,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
-  <br><br>
-  <h3>💾Used at least Once💾</h3> 
-  <br>
-  <img src="https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Unity-FFFFFF.svg?&style=for-the-badge&logo=Unity&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Android Studio-3DDC84.svg?&style=for-the-badge&logo=Android Studio&logoColor=white"/>
-  
-  <br><br><br><br>
+
+  <br><br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=coringcoring&show_icons=true&theme=dark"/>
   <img src="http://mazassumnida.wtf/api/generate_badge?boj=niwa32329"/>
 </div>
