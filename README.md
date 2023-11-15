@@ -14,25 +14,28 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C++&logoColor=white"/>
 -->
 
-<div align="left">
+<div align="center">
   <header>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=JinYoung%20Kim&fontSize=70"/>
   </header>
-  <h3>💻Language💻</h3>
-  <br>
-  <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/>
-  <br><br> 
-  <h3>🌱Currently Learning🌱</h3>
+  <h3>💻Technology💻</h3>
   <br>
   <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
-
+  <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <br><br> 
+  <h3>🌱Currently Learning🌱</h3>
+  <br>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
+  
+  <!--
   <br><br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=coringcoring&show_icons=true&theme=dark"/>
-  <img src="http://mazassumnida.wtf/api/generate_badge?boj=niwa32329"/>
+  <img src="http://mazassumnida.wtf/api/generate_badge?boj=niwa32329"/> 
+  -->
 </div>
 
