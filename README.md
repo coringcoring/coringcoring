@@ -51,6 +51,8 @@ Here are some ideas to get you started:
 
 <div align="center">
   <h3>👩‍💻Experience</h3>
+  <h4>2024</h4>
+
   <h4>2023</h4>
   <div style="text-align: left;">
       COSS Data Science Supporter <code>2023.04~2024.02</code><br> 
