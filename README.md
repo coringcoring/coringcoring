@@ -19,7 +19,7 @@ Here are some ideas to get you started:
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=JinYoung%20Kim&fontSize=70"/>
   </header>
   <h3>✨About Me✨</h3>
-  Hello! I'm currently interested in <code>Backend Engineering</code>, <code>Machine Learning</code>.<br>
+  Hello! I'm currently interested in <code>Backend Engineering</code>, <code>Machine Learning</code>, <code>MLOps</code>.<br>
   I love to apply the skills I've learned. Please feel free to contact me!
   
   <h3>💻Technology💻</h3>
