@@ -24,10 +24,11 @@ Here are some ideas to get you started:
   
   <h3>💻Technology💻</h3>
   <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/googlecolab-F9AB00.svg?&style=for-the-badge&logo=googlecolab&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
   <br>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"/>
   <img src="https://img.shields.io/badge/elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
@@ -38,7 +39,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"/>
+  <br>
   <img src="https://img.shields.io/badge/elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <br><br>
   <!--
   <br><br><br>
@@ -51,8 +54,6 @@ Here are some ideas to get you started:
 
 <div align="center">
   <h3>👩‍💻Experience</h3>
-  <h4>2024</h4>
-
   <h4>2023</h4>
   <div style="text-align: left;">
       COSS Data Science Supporter <code>2023.04~2024.02</code><br> 
@@ -71,6 +72,7 @@ Here are some ideas to get you started:
     The 1st Shinhan Financial Group BigData Hackathon | Data Analysis Division Encouragement Award | <strong>Data Analysis</strong> <code>2022.11</code><br>
     The 1st Monthly BigData Campus | Encouragement Award | <strong>Data Analysis</strong> <code>2023.09</code><br>
     The 2nd Monthly BigData Campus | Encouragement Award | <strong>Data Analysis</strong> <code>2023.11</code><br>
+    AWS-ELASTIC Winter Camp | 1st Prize | <strong>Elasticsearch, Error parsing, Streamlit</strong> <code>2024.02.23</code>
   </div>
   <!--<a href="https://github.com/coringcoring"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coringcoring&layout=compact&theme=nord&hide_border=true" /></a> -->
 </div>
