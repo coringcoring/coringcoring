@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C++&logoColor=white"/>
 -->
 
-<div align="center">
+<div align="left">
   <header>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=JinYoung%20Kim&fontSize=70"/>
   </header>
@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
 ---
 
-<div align="center">
+<div align="left">
   <h3>👩‍💻Experience</h3>
   <h4>2023</h4>
   <div style="text-align: left;">
