@@ -79,4 +79,6 @@ Here are some ideas to get you started:
   <!--<a href="https://github.com/coringcoring"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coringcoring&layout=compact&theme=nord&hide_border=true" /></a> -->
 </div>
 
-
+<div align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</div>
