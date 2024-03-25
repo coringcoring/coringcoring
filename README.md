@@ -57,7 +57,7 @@ Here are some ideas to get you started:
   <h3>👩‍💻Experience</h3>
   <h4>2024</h4>
   <div style="text-align: left;">
-    AWS Cloud Clubs Member <code>2024.03~</code>
+    AWS Cloud Clubs 2nd Member <code>2024.03~</code>
   <h4>2023</h4>
   <div style="text-align: left;">
       COSS Data Science Supporter <code>2023.04~2024.02</code><br> 
