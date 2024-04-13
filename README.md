@@ -80,6 +80,13 @@ Here are some ideas to get you started:
     The 2nd Monthly BigData Campus | Encouragement Award | <strong>Data Analysis</strong> <code>2023.11</code><br>
     AWS-ELASTIC Winter Camp | 1st Prize | <strong>Elasticsearch, Error parsing, Streamlit</strong> <code>2024.02.23</code>
   </div>
+  <br>
+  <div>
+    <a href="https://github.com/devxb/gitanimals">
+      <img src = "https://render.gitanimals.org/lines/coringcoring" width="1000" height="60"/>
+    </a>
+  </div>
+  
   <!--<a href="https://github.com/coringcoring"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coringcoring&layout=compact&theme=nord&hide_border=true" /></a> -->
 </div>
 
