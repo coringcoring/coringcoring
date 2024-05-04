@@ -85,6 +85,11 @@ Here are some ideas to get you started:
     <a href="https://github.com/devxb/gitanimals">
       <img src = "https://render.gitanimals.org/lines/coringcoring?pet-id=323" width="1000" height="60"/>
     </a>
+    <!--
+    <a href="https://github.com/devxb/gitanimals">
+      <img src="https://render.gitanimals.org/farms/coringcoring"/>
+    </a>
+    --> 
   </div>
   
   <!--<a href="https://github.com/coringcoring"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coringcoring&layout=compact&theme=nord&hide_border=true" /></a> -->
