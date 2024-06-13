@@ -65,7 +65,7 @@ Here are some ideas to get you started:
       COSS Data Science Supporter <code>2023.04~2024.02</code><br> 
       National Science & Technology Scholarship <code>2023.04~</code><br>
       Python Basic Tutoring - Tutor <code>2023.09~2023.11</code><br>
-      Daewoong Digital Health Project - Data <code>2023.12~</code>
+      Daewoong Digital Health Project - Data <code>2023.12~2024.05</code>
   </div>
   <h4>2021 - 2022 </h4>
   <div style="text-align: left;">
