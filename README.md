@@ -59,7 +59,9 @@ Here are some ideas to get you started:
   <h3>👩‍💻Experience</h3>
   <h4>2024</h4>
   <div style="text-align: left;">
-    AWS Cloud Clubs 2nd Member <code>2024.03~</code>
+    AWS Cloud Clubs 2nd Member <code>2024.03~</code><br>
+    It-da Supporters - powre2farms (Webpage, App, Machine Learning) <code>2024.03~</code><br>
+    Daewoong Digital Health Project (Extended) - AI Prediction <code>2024.07~2024.08</code>
   <h4>2023</h4>
   <div style="text-align: left;">
       COSS Data Science Supporter <code>2023.04~2024.02</code><br> 
