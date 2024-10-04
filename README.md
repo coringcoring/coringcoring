@@ -60,7 +60,7 @@ Here are some ideas to get you started:
   <h4>2024</h4>
   <div style="text-align: left;">
     AWS Cloud Clubs 2nd Member <code>2024.03~</code><br>
-    It-da Supporters - Power2farms Homepage Development <code>2024.03~</code><br>
+    It-da Supporters - Power2farms Homepage Development, Supported Development of Prototype <code>2024.03~2024.09</code><br>
     Daewoong Digital Health Project (Extended) - AI Prediction Modeling <code>2024.07~</code><br>
     SNU Explore CSR Program <code>2024.07~2024.08</code>
   <h4>2023</h4>
