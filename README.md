@@ -19,7 +19,7 @@ Here are some ideas to get you started:
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=JinYoung%20Kim&fontSize=70"/>
   </header>
   <h3>✨About Me✨</h3>
-  Hello! I'm currently interested in <code>Backend Engineering</code>, <code>Machine Learning</code>, <code>MLOps</code>.<br>
+  Hello! I'm currently interested in <code>VectorDB</code>, <code>Backend Engineering</code>, <code>Machine Learning</code>, <code>MLOps</code>.<br>
   I love to apply the skills I've learned. Please feel free to contact me!
   
   <h3>💻Technology💻</h3>
@@ -61,7 +61,7 @@ Here are some ideas to get you started:
   <div style="text-align: left;">
     AWS Cloud Clubs 2nd Member <code>2024.03~</code><br>
     It-da Supporters - Power2farms Homepage Development, Supported Development of Prototype <code>2024.03~2024.09</code><br>
-    Daewoong Digital Health Project (Extended) - AI Prediction Modeling <code>2024.07~</code><br>
+    Daewoong Digital Health Project (Extended) - AI Prediction Modeling <code>2024.07~2024.12</code><br>
     SNU Explore CSR Program <code>2024.07~2024.08</code>
   <h4>2023</h4>
   <div style="text-align: left;">
