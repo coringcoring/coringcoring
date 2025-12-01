@@ -21,36 +21,37 @@ Here are some ideas to get you started:
   <h3>✨About Me✨</h3>
   Hello! I'm currently interested in <code>VectorDB</code>, <code>Database</code>, <code>MLOps</code>.<br>
   I love to apply the skills I've learned. Please feel free to contact me!
-  
+
+<!--
   <h3>💻Technology💻</h3>
   <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/googlecolab-F9AB00.svg?&style=for-the-badge&logo=googlecolab&logoColor=white"/>
   <br>
+  --> 
 <!--   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/> -->
 <!--   <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white"/> -->
+<!--
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/>
-
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/> 
+--> 
 <!--   <img src="https://img.shields.io/badge/elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/> -->
   <br>
 <!--   <img src="https://img.shields.io/badge/streamlit-FF4B4B1?style=for-the-badge&logo=streamlit&logoColor=white"/> -->
-  <br><br> 
-  <h3>🌱Currently Learning🌱</h3>
+<!--  <h3>🌱Currently Learning🌱</h3>
 <!--   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/> -->
-  <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <br>
+  <!--<img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <br> --> 
 <!--   <img src="https://img.shields.io/badge/elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/> -->
-
-  <br><br>
   <!--
   <br><br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=coringcoring&show_icons=true&theme=dark"/>
   <img src="http://mazassumnida.wtf/api/generate_badge?boj=niwa32329"/> 
   -->
 </div>
+
 
 
 <div align="left">
