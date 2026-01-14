@@ -82,7 +82,8 @@ Here are some ideas to get you started:
     The 1st Shinhan Financial Group BigData Hackathon | Data Analysis Division Encouragement Award | <strong>Data Analysis</strong> <code>2022.11</code><br>
     The 1st Monthly BigData Campus | Encouragement Award | <strong>Data Analysis</strong> <code>2023.09</code><br>
     The 2nd Monthly BigData Campus | Encouragement Award | <strong>Data Analysis</strong> <code>2023.11</code><br>
-    AWS-ELASTIC Winter Camp | 1st Prize | <strong>Elasticsearch, Error parsing, Streamlit</strong> <code>2024.02.23</code>
+    AWS-ELASTIC Winter Camp | 1st Prize | <strong>Elasticsearch, Error parsing, Streamlit</strong> <code>2024.02.23</code><br>
+    Self-Directed Career Design Project | Encouragement Award | <strong>Langchain, FastAPI</strong> <code>2025.12.17</code>
   </div>
   <br>
   <div>
