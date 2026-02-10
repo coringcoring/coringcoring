@@ -53,14 +53,40 @@ Here are some ideas to get you started:
 </div>
 
 
+### 👩‍💻 Experience
+
+| Period | Activity | Description / Role |
+| :--- | :--- | :--- |
+| 2026.03 ~ | SNU DBXLAB | MS/PhD Integrated Course |
+| 2025.07 ~ 2026.02 | SNU DBXLAB | Undergraduate Intern |
+| 2024.03 ~ 2026.02 | AWS Cloud Clubs | 2nd Member |
+| 2023.12 ~ 2024.12 | Daewoong Digital Health Project| AI Prediction Modeling & Data |
+| 2024.03 ~ 2024.09 | It-da Supporters | Power2farms Homepage & Prototype Dev |
+| 2024.07 ~ 2024.08 | SNU Explore CSR Program |  |
+
+<details>
+<summary><b>📑 View Past Experiences (~2023)</b></summary>
+<br>
+
+| Period | Activity | Description / Role |
+| :--- | :--- | :--- |
+| 2023.04 ~ 2024.02 | COSS | Data Science Supporter |
+| 2023.04 ~ 2026.02 | National Scholarship | Science & Technology |
+| 2023.09 ~ 2023.11 | Python Tutoring | Basic Python Tutor |
+| 2021.03 ~ 2023.12 | APPS | 8th Member |
+| 2022.03 ~ 2023.12 | ALGOS | 12th Member |
+
+</details>
 
 <div align="left">
-  <h3>👩‍💻Experience</h3>
+  <!-- <h3>👩‍💻Experience</h3>
+  <h4>2026</h4>
+    MS/PhD Integrated in SNU DBXLAB <code>2026.03~</code>
   <h4>2025</h4>
-    Undergraduate Intern in SNU DBXLAB <code>2025.07~</code>
+    Undergraduate Intern in SNU DBXLAB <code>2025.07~2026.02</code>
   <h4>2024</h4>
   <div style="text-align: left;">
-    AWS Cloud Clubs 2nd Member <code>2024.03~</code><br>
+    AWS Cloud Clubs 2nd Member <code>2024.03~2026.02</code><br>
     It-da Supporters - Power2farms Homepage Development, Supported Development of Prototype <code>2024.03~2024.09</code><br>
     Daewoong Digital Health Project (Extended) - AI Prediction Modeling <code>2024.07~2024.12</code><br>
     SNU Explore CSR Program <code>2024.07~2024.08</code>
@@ -75,7 +101,7 @@ Here are some ideas to get you started:
   <div style="text-align: left;">
       APPS 8th Member <code>2021.03~2023.12</code><br>
       ALGOS 12th Member <code>2022.03~2023.12</code><br>
-  </div>
+  </div> -->
   <h3>🏆Awards</h3>
   <div style="text-align: left;">
     The 1st SMSW Hacakthon (SMSWH) | Excellence Award | <strong>Unity</strong> <code>2021.11.10</code> <br>
