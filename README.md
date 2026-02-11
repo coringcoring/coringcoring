@@ -124,7 +124,7 @@ Here are some ideas to get you started:
   <br>
   <div>
     <a href="https://github.com/devxb/gitanimals">
-      <img src = "https://render.gitanimals.org/lines/coringcoring?pet-id=326" width="1000" height="60"/>
+      <img src = "https://render.gitanimals.org/lines/coringcoring?pet-id=326" width="1000" height="100"/>
     </a>
     <!--
     <a href="https://github.com/devxb/gitanimals">
