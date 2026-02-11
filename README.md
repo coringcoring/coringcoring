@@ -78,6 +78,16 @@ Here are some ideas to get you started:
 
 </details>
 
+
+<br> 
+
+
+### 📑 Papers
+| Year | Title | Conference / Venue | Role | Note | 
+| :--- | :--- | :--- | :--- | :--- | 
+| 2025 | [Reducing Disk I/O in PGvector HNSW indexes using METIS](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003293183) | DBR (KCI) | 1st Author | B.S. Thesis | 
+
+
 <div align="left">
   <!-- <h3>👩‍💻Experience</h3>
   <h4>2026</h4>
