@@ -19,7 +19,7 @@ Here are some ideas to get you started:
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=JinYoung%20Kim&fontSize=70"/>
   </header>
   <h3>✨About Me✨</h3>
-  Hello! I'm currently interested in <code>VectorDB</code>, <code>Database</code>, <code>MLOps</code>.<br>
+  Hello! I'm currently interested in <code>NL2SQL</code>, <code>Database</code>.<br>
   I love to apply the skills I've learned. Please feel free to contact me!
 
 <!--
@@ -57,8 +57,8 @@ Here are some ideas to get you started:
 
 | Period | Activity | Description / Role |
 | :--- | :--- | :--- |
-| 2026.03 ~ | SNU DBXLAB | MS/PhD Integrated Course |
-| 2025.07 ~ 2026.02 | SNU DBXLAB | Undergraduate Intern |
+| 2026.03 ~ | SNU GSDS | MS Course in VLDB Lab |
+| 2025.07 ~ 2026.02 | SNU GSDS | Undergraduate Intern |
 | 2024.03 ~ 2026.02 | AWS Cloud Clubs | 2nd Member |
 | 2023.12 ~ 2024.12 | Daewoong Digital Health Project| AI Prediction Modeling & Data |
 | 2024.03 ~ 2024.09 | It-da Supporters | Power2farms Homepage & Prototype Dev |
@@ -85,7 +85,8 @@ Here are some ideas to get you started:
 ### 📑 Papers
 | Year | Title | Conference / Venue | Role | Note | 
 | :--- | :--- | :--- | :--- | :--- | 
-| 2025 | [Reducing Disk I/O in PGvector HNSW indexes using METIS](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003293183) | DBR (KCI) | 1st Author | B.S. Thesis | 
+| 2025 | [Reducing Disk I/O in PGvector HNSW indexes using METIS](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003293183) | DBR (Domestic) | 1st Author | B.S. Thesis | 
+| 2026 | [Performance Analysis of Incremental Vector Indexes under Query Distribution Shift](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12929349) | KCC 2026 (Domestic) | 1st Author |  | 
 
 
 <div align="left">
