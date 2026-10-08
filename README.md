@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 </div>
 
 
-### 👩‍💻 Experience
+<h3> 👩‍💻 Experience  </h3>
 
 | Period | Activity | Description / Role |
 | :--- | :--- | :--- |
@@ -78,14 +78,16 @@ Here are some ideas to get you started:
 <br> 
 
 
-### 📑 Papers
-| Year | Title | Conference / Venue | Role | Note | 
-| :--- | :--- | :--- | :--- | :--- | 
-| 2025 | [Reducing Disk I/O in PGvector HNSW indexes using METIS](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003293183) | DBR (Domestic) | 1st Author | B.S. Thesis | 
-| 2026 | [Performance Analysis of Incremental Vector Indexes under Query Distribution Shift](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12929349) | KCC 2026 (Domestic) | 1st Author |  | 
+<h3> 📑 Papers </h3>
+
+- **[Performance Analysis of Incremental Vector Indexes under Query Distribution Shift](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12929349)**  
+  KCC 2026 (Domestic) · 1st Author · 2026
+
+- **[Reducing Disk I/O in PGvector HNSW indexes using METIS](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003293183)**  
+  DBR (Domestic) · 1st Author · B.S. Thesis · 2025
 
 
-<div align="left">
+<!-- <div align="left">
   <!-- <h3>👩‍💻Experience</h3>
   <h4>2026</h4>
     MS/PhD Integrated in SNU DBXLAB <code>2026.03~</code>
@@ -109,6 +111,7 @@ Here are some ideas to get you started:
       APPS 8th Member <code>2021.03~2023.12</code><br>
       ALGOS 12th Member <code>2022.03~2023.12</code><br>
   </div> -->
+  <!--
   <h3>🏆Awards</h3>
   <div style="text-align: left;">
     The 1st SMSW Hacakthon (SMSWH) | Excellence Award | <strong>Unity</strong> <code>2021.11.10</code> <br>
@@ -131,8 +134,10 @@ Here are some ideas to get you started:
   </div>
   
   <!--<a href="https://github.com/coringcoring"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coringcoring&layout=compact&theme=nord&hide_border=true" /></a> -->
-</div>
+</div> 
 
+<!--
 <div align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
+--> 
