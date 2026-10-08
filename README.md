@@ -16,12 +16,8 @@ Here are some ideas to get you started:
 
 <div align="left">
   <header>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=JinYoung%20Kim&fontSize=70"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&section=header&text=JinYoung%20Kim&fontSize=40"/>
   </header>
-  <h3>✨About Me✨</h3>
-  Hello! I'm currently interested in <code>NL2SQL</code>, <code>Database</code>.<br>
-  I love to apply the skills I've learned. Please feel free to contact me!
-
 <!--
   <h3>💻Technology💻</h3>
   <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
